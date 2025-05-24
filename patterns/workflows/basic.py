@@ -4,7 +4,7 @@ from openai import OpenAI
 
 client = OpenAI(
     api_key = os.getenv("OPENAI_API_KEY")
-)adj
+)
 
 completion = client.chat.completions.create(
     model="chatgpt-4o-latest",
