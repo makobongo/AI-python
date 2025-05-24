@@ -21,4 +21,4 @@ pip install -r requirements.txt
 ```bash
 cp .env.example .env # and populate with your OpenAI key generated from openai platform
 ```
-
+NB - SHOULD WORK FINE UNDER OPENAI PAID PLAN SO SET ONE ON YOUR ACCOUNT
