@@ -19,6 +19,6 @@ pip install -r requirements.txt
 3. Configure the environment variables:
 
 ```bash
-cp .env.example .env # and populate with your open
+cp .env.example .env # and populate with your OpenAI key generated from openai platform
 ```
 
