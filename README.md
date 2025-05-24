@@ -18,5 +18,7 @@ pip install -r requirements.txt
 
 3. Configure the environment variables:
 
-Create the `OPENAI_API_KEY` and update with the key generated from OpenAI Platform i.e.  sb______
+```bash
+cp .env.example .env # and populate with your open
+```
 
